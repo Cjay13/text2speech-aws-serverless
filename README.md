@@ -20,3 +20,6 @@ This repository contains an AWS serverless solution for converting text to speec
 
 - **Amazon SES**: Sends the pre-signed URL to the user's email address.
 
+# Architecture Diagram
+
+![text2speech_aws drawio (1)](https://github.com/user-attachments/assets/6f6ae759-e631-4887-b418-49d0a1359085)
