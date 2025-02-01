@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const API_URL = "https://your-api-gateway-url.com/your-endpoint"; // Replace with your API Gateway URL
+const API_URL = "https://8217r5vnq5.execute-api.us-east-1.amazonaws.com";
 
 function App() {
   const [file, setFile] = useState(null);
